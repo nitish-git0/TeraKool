@@ -1,0 +1,20 @@
+venv/Scripts/activate
+Flask run
+
+
+for static website its simple
+
+
+for virtual machine creation
+
+type     ssh-keygen -m PEM
+
+go with default options then go to that directory(i.e. C:\Users\DELL/.ssh/id_rsa ) to fetch the key value pair
+
+you can either copy the key and paste it while creating virtual machine or if have already created a pair it will fetch it automatically
+
+copy the link paste in terminal ....
+
+enter passphrase "nitish"
+
+and use ec2
